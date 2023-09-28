@@ -1,0 +1,37 @@
+.container {
+padding: 0;
+box-sizing: border-box;
+text-align: center;
+
+  }
+  
+  img {
+   
+    width: 500px;
+    height: 500px;
+   
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    background-color: rgb(202, 184, 184);
+    text-align: center;
+
+   
+}
+
+a{
+  color: black;
+
+}
+
+a:hover{
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  text-decoration: none;
+  background-color: pink;
+
+}

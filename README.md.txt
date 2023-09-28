@@ -1,1 +1,0 @@
-esto es un repo de github  donde esot metiendo las cosas que voy aprendiendo y de tal forma que las cosas vayan de la mejor manera y la mas correcta tu sabes amigo
